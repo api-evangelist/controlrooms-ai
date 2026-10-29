@@ -64,5 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-ControlRooms.ai is a company surfaced via the API Evangelist harvest backlog (source: secondary-market) and added to the network as a stub for full-pipeline profiling.
-- https://www.nasdaqprivatemarket.com/
+ControlRooms.ai provides an agentic troubleshooting system for energy and chemical plant operations. It uses large harmony models to detect anomalies before traditional alarms fire, offering proactive advice, logging, and AI‑drafted shift summaries. The platform integrates with existing DCS, Teams, and mobile apps to help operators mitigate issues early, improving safety and efficiency across refining, fertilizers, petrochemicals, and related sectors.
+
+**Areas:** Anomaly Detection · Plant Operations · AI Troubleshooting
+
+## ControlRooms.ai on APIs.io
+
+Everything profiled for ControlRooms.ai is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/controlrooms-ai/](https://apis.io/providers/controlrooms-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [ControlRooms API](https://apis.io/apis/controlrooms-ai/controlrooms-api/) — ControlRooms AI platform API (no public spec discovered).
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Controlrooms Ai Domain Security](https://apis.io/security/controlrooms-ai/controlrooms-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.controlrooms.ai/)
+- [Terms of service](https://www.controlrooms.ai/terms-of-service-agreement)
+- [Privacy policy](https://www.controlrooms.ai/privacy-policy)
+- [GitHub](https://github.com/controlrooms)
+
+## API Evangelist rating
+
+**Kin Score 9.5** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/controlrooms-ai/](https://apis.io/providers/controlrooms-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for ControlRooms.ai: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/controlrooms-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
